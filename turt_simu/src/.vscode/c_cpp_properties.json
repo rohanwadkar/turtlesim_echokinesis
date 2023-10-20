@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mustang/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/mustang/mustang_ws/devel/include/**",
+        "/home/mustang/mustang_ws/src/eYRC-2021_Agribot/agri_bot_perception/include/**",
+        "/home/mustang/catkin_ws/src/eband_local_planner-master/include/**",
+        "/home/mustang/mustang_ws/src/eYRC-2021_Agribot/ebot_nav/include/**",
+        "/home/mustang/mustang_ws/src/eyrc_nav/include/**",
+        "/home/mustang/mustang_ws/src/fetch_gazebo/include/**",
+        "/home/mustang/mustang_ws/src/eYRC-2021_Agribot/gazebo_ros_link_attacher/include/**",
+        "/home/mustang/mustang_ws/src/geographic_info/geodesy/include/**",
+        "/home/mustang/practice_ws/src/hello_world/include/**",
+        "/home/mustang/mustang_ws/src/LMS1xx-noetic-devel/include/**",
+        "/home/mustang/catkin_ws/src/moveit_task_constructor/core/include/**",
+        "/home/mustang/catkin_ws/src/moveit_task_constructor/demo/include/**",
+        "/home/mustang/mustang_ws/src/robot_pose_ekf/include/**",
+        "/home/mustang/mustang_ws/src/eYRC-2021_Agribot/robotiq_85_gripper-master/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/mustang/catkin_ws/src/rrt_star_global_planner/include/**",
+        "/home/mustang/catkin_ws/src/moveit_task_constructor/rviz_marker_tools/include/**",
+        "/home/mustang/mustang_ws/src/teleop_twist_joy/include/**",
+        "/home/mustang/practice_ws/src/turt_simu/include/**",
+        "/home/mustang/mustang_ws/src/unique_identifier/unique_id/include/**",
+        "/home/mustang/mustang_ws/src/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
